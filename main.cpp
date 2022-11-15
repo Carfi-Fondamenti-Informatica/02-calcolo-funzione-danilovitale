@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
   float a = 0, b = 0, x = 0, y = 0, z = 0; //inizializzo le variabili
   cin >> a >> b >> x >> y;
